@@ -6,6 +6,7 @@
 
 film_rating = "Luke"
 
+
 if film_rating.lower() == "u":
     print("All age groups can watch this movie")
 # elif - Less processing power and runs only if if condition is not met.

@@ -1,4 +1,4 @@
-#Remember to use the random module
+# Remember to use the random module
 import random
 
 # Get either 0 or 1
